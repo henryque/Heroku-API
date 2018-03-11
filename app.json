@@ -1,0 +1,19 @@
+{
+  "name": "Heroku-API",
+  "description": "Meu primeiro API",
+  "scripts": {
+  },
+  "env": {
+    "MONGODB_URI": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+    "mongolab"
+  ],
+  "buildpacks": [
+
+  ]
+}
